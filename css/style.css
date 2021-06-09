@@ -219,7 +219,7 @@ footer {
 
   
   /* === DESKTOP_1 VIEW === */
-@media all and (min-width: 780px) {
+@media all and (min-width: 300px) {
     /* === section_1 header view === */
     .header {
       display: block;

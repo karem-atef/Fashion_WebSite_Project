@@ -227,3 +227,9 @@ li a:hover{
   color: black;
   background-color:white;
 }
+@media all and (min-width:300px) {
+ul{
+  display: block;
+  margin: auto;
+} 
+}
