@@ -18,7 +18,7 @@
 #s1 {
     width: 100%;
     height: 100%;
-    background: url(../imgs/banner1.jpg) no-repeat center center;
+    background: url(../imgs/banner.jpg) no-repeat center center;
     background-size: cover;
     position: relative;
     overflow: hidden;
@@ -96,23 +96,6 @@
       left: 50%;
     }
   }
-  
-  .header>a {
-    display: block;
-    color: white;
-    font-family: 'Great Vibes', cursive;
-    font-size: 7vw;
-    /*font-size: 90px;*/
-    text-decoration: none;
-    position: absolute;
-    /*width: 190px;
-    height: 100px;*/
-    left: 50%;
-    top: 12%;
-    transform: translate(-50%, 0);
-    text-align: center;
-  }
-  
   #s1 article {
     width: 33vw;
     height: 70vh;
@@ -277,6 +260,7 @@ footer {
       max-width: 350px;
       padding-top: 20px;
       margin-left: 50px;
+
     }
   }
   
